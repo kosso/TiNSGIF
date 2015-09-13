@@ -184,7 +184,7 @@ function convertTest(){
 	webview.html = '...';
 
 	var testVideosPath = Ti.Filesystem.resourcesDirectory + 'video/';
-	var movies = ['toasthouse.mv4', 'video.mp4', 'IMG_0495.MOV'];
+	var movies = ['toasthouse.m4v', 'video.mp4', 'IMG_0495.MOV'];
 	
 	var movie = movies[getRandomInt(0,2)]
 	console.log('movie: '+movie);
