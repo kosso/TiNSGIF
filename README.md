@@ -5,6 +5,7 @@ An Appcelerator Titanium module for iOS to create animated GIFs from videos base
 
 See the full test app (TiNSGIFTest) in the examples folder.
 
+[example](/example.gif?raw=true TiNSGIF example")
 
 This module was built against Titanium SDK v.4.1.1.v20150802200935.  To build it yourself you might need to edit the `manifest` file and `titanium.xcconfig` to suit your local Titanium installation locations. 
 
