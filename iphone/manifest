@@ -2,9 +2,9 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 0.1
+version: 0.2
 apiversion: 2
-architectures: armv7 arm64 i386 x86_64
+architectures: arm64 x86_64
 description: TiNSGIF
 author: Kosso
 license: MIT
@@ -15,4 +15,4 @@ name: TiNSGIF
 moduleid: ti.nsgif
 guid: 563873f2-04dc-4501-b0cf-6c05779ab1a4
 platform: iphone
-minsdk: 4.1.1.v20150802200935
+minsdk: 9.3.2.GA 
